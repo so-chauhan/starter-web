@@ -1,4 +1,6 @@
 # humanstxt.org/
+  This is my first commit to project
+  Hi ! Everyone
 # The humans responsible & technology colophon
 
 # TEAM
