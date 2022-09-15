@@ -1,7 +1,6 @@
 # humanstxt.org/
   This is my first commit to project
   Hi ! Everyone
-Bye
 # The humans responsible & technology colophon
 
 # TEAM
